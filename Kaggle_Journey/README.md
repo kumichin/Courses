@@ -33,7 +33,5 @@ Este repositorio está dividido en varias carpetas principales:
 Kaggle es una plataforma increíblemente rica para aprender, practicar y competir en ciencia de datos. Me atrae especialmente por la comunidad tan activa y los retos reales a los que me enfrento en cada competición. Cada paso en mi journey aquí es una oportunidad para mejorar y explorar nuevos caminos en la IA.
 
 ## ¿Quién soy yo? 👩‍💻
-
-Soy una apasionada de la inteligencia artificial y la programación. Mi objetivo es llegar a ser una ingeniera de IA de nivel mundial, y en este repositorio podrás ver mi progreso mientras aprendo, compito y creo proyectos relacionados con Kaggle. Mi enfoque es siempre aprender de mis errores y celebrar los pequeños logros en el camino.
-
+Soy una apasionada de la inteligencia artificial, la programación y los datos. Mi objetivo es crecer profesionalmente y convertirme en experta en el campo de los datos, desde el análisis hasta la ingeniería de IA. En este repositorio podrás seguir mi progreso mientras aprendo, compito y desarrollo proyectos en plataformas como Kaggle. Mi enfoque está en aprender de mis errores y celebrar los pequeños logros a lo largo del camino.
 Gracias por seguir mi viaje. ¡Espero que encuentres algo interesante y útil aquí!
